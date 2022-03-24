@@ -1,6 +1,8 @@
 # Udemy-Golang
 GO - The complete developers guide By Stephen Girder_Udemy
 
+9hrs - took me 18 
+
 
 This is an 8 Module Udemy course facilitated by Stephen Girder 
 
