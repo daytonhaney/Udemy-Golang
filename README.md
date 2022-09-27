@@ -10,7 +10,7 @@ Golang is the language of the cloud aka server
 
 Golang has exceptional official documentation similar to Python
 
-The SolarWinds attack is where I witnessed the true power of Golang and have 
+The SolarWinds incident is where I witnessed the true power of Golang and have 
 been fascinated by it's capabilities ever since ...
 
 
